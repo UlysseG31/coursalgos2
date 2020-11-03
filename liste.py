@@ -1,1 +1,1 @@
-
+def echange(list):
